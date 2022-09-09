@@ -168,4 +168,4 @@
       <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
     </repository>
   </repositories>
-</project>
+</project>	
